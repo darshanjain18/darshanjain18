@@ -26,6 +26,6 @@ I work in **Full-Stack Development** and have recently started exploring **Data 
 
 ## 📄 Resume
 
-[View Resume](https://drive.google.com/file/d/1qOP0_wDuO9mQ1a-H0y2QcFklOKPTaYiz/view?usp=sharing)
+[View Resume](https://drive.google.com/file/d/1jxWSjhHGNyXPygNYmPmBwIh-QO5AfJdU/view?usp=drive_link)
 
 ---

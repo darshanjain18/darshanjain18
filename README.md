@@ -6,11 +6,13 @@
 
 ## Hi, I'm Darshan Jain 👋
 
-I'm a Computer Engineering student focused on building **scalable frontend applications**.
+I'm a Final Year Computer Engineering student passionate about building **data-driven solutions**.
 
-I work in **Full-Stack Development** and have recently started exploring **Data Analytics as a Power BI Developer**, with a strong interest in **Data Science and data-driven problem solving**.
+I enjoy working on projects in the domain of **Data Analytics and Power BI**, and I’m actively exploring **Data Science, AI, and Machine Learning**.
 
-> Learning continuously, building real-world projects, and turning data into meaningful insights.
+I love solving real-world problems through projects and continuously learning new technologies in this field.
+
+> Always open to collaborations — feel free to connect with me on Gmail or LinkedIn to work on exciting projects together!
 
 <br clear="right"/>
 
@@ -27,5 +29,3 @@ I work in **Full-Stack Development** and have recently started exploring **Data 
 ## 📄 Resume
 
 [View Resume](https://drive.google.com/file/d/1jxWSjhHGNyXPygNYmPmBwIh-QO5AfJdU/view?usp=drive_link)
-
----

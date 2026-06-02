@@ -28,4 +28,4 @@ I love solving real-world problems through projects and continuously learning ne
 
 ## 📄 Resume
 
-[View Resume](https://drive.google.com/file/d/1jxWSjhHGNyXPygNYmPmBwIh-QO5AfJdU/view?usp=drive_link)
+[View Resume](https://drive.google.com/file/d/1w9iRoEcexQl6B2x6uM2BTZkvAEYGZRwt/view?usp=sharing)

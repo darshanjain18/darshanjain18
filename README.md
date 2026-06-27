@@ -8,13 +8,28 @@
 
 I'm a Final Year Computer Engineering student passionate about building **data-driven solutions**.
 
-I enjoy working on projects in the domain of **Data Analytics and Power BI**, and I’m actively exploring **Data Science, AI, and Machine Learning**.
+I enjoy working on projects in the domain of **Data Analytics and Power BI**, and I'm actively exploring **Data Science, AI, and Machine Learning**.
 
 I love solving real-world problems through projects and continuously learning new technologies in this field.
 
 > Always open to collaborations — feel free to connect with me on Gmail or LinkedIn to work on exciting projects together!
 
 <br clear="right"/>
+
+---
+
+## 💻 Tech Stack:
+
+![PYTHON](https://img.shields.io/badge/PYTHON-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![MYSQL](https://img.shields.io/badge/MYSQL-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+![FASTAPI](https://img.shields.io/badge/FASTAPI-005571?style=for-the-badge&logo=fastapi)
+
+![PANDAS](https://img.shields.io/badge/PANDAS-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
+![NUMPY](https://img.shields.io/badge/NUMPY-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)
+![MATPLOTLIB](https://img.shields.io/badge/MATPLOTLIB-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black)
+![CANVA](https://img.shields.io/badge/CANVA-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white)
 
 ---
 
